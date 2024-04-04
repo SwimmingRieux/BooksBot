@@ -1,1 +1,1 @@
-A telegram bot search engine, designed for the purpose of finding pdf files and audio books a list of telegram channels. Powered by Selenium.
+A telegram bot book search engine, designed for the purpose of finding pdf files and audio books a list of telegram channels. Powered by Selenium.
